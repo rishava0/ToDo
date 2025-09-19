@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const DB_URL = 'mongodb+srv://kashinathagarwal8507_db_user:1234@cluster0.lcjbcpb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+const DB_URL = 'mongodb+srv://kashinathagarwal8507_db_user:HKfeknHx1AhiLOqe@cluster0.wkwexnc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
 
 
 mongoose.connect(DB_URL,{
